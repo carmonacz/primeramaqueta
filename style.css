@@ -16,6 +16,7 @@ header {
   background-color: var(--azulPrincipal);
   color: var(--textoPrincipal);
   text-align: center;
+  width: auto;
   max-width: 800px;
 }
 
@@ -33,7 +34,7 @@ li.importante {
 }
 /* CSS de la Tabla */
 table {
-  width: 100%;
+  width: auto;
   max-width: 600px;
   padding: 1rem;
 }
