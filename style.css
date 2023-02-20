@@ -13,11 +13,11 @@ html {
 }
 
 header {
+  width: 100%;
+  max-width: 800px;
   background-color: var(--azulPrincipal);
   color: var(--textoPrincipal);
   text-align: center;
-  width: auto;
-  max-width: 800px;
 }
 
 h2 {
@@ -34,8 +34,8 @@ li.importante {
 }
 /* CSS de la Tabla */
 table {
-  width: auto;
-  max-width: 600px;
+  width: 100%;
+  max-width: 800px;
   padding: 1rem;
 }
 
